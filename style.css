@@ -1,0 +1,24 @@
+#hero-section{
+    background-image: linear-gradient(to right top, #0b0b0b, #2d1a31, #611b45, #980f40, #c32222);
+}
+
+.feature-icon-small {
+    width: 4rem;
+    height: 4rem;
+}
+
+h4, h1, p, h5{
+    font-family: syne;
+}
+
+.nd{
+    text-align: center;
+}
+
+li{
+    font-family: syne;
+}
+
+.backgroundd{
+    background-image: linear-gradient(to right top, #0b0b0b, #2d1a31, #611b45, #980f40, #c32222);
+}
